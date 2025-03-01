@@ -1,3 +1,4 @@
+#google job interview question
 x = input()
 print(f"your input is: {x}")
 x = x[::-1]
