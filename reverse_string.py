@@ -1,4 +1,10 @@
-#google job interview question
+# #google job interview question
+# This question is asked by Google. Given a string, reverse all of its characters and return the resulting string.
+# Ex: Given the following strings...
+# “Cat”, return “taC”
+# “The Daily Byte”, return "etyB yliaD ehT”
+# “civic”, return “civic”
+
 x = input()
 print(f"your input is: {x}")
 x = x[::-1]
