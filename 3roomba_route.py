@@ -4,6 +4,8 @@
 # "URURD", return false
 # "RUULLDRD", return true
 
+# time: 20 min
+
 #starting coords
 x = [0,0]
 #given string:

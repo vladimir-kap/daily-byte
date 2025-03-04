@@ -5,6 +5,8 @@
 # “The Daily Byte”, return "etyB yliaD ehT”
 # “civic”, return “civic”
 
+#time: 10 min
+
 x = input()
 print(f"your input is: {x}")
 x = x[::-1]

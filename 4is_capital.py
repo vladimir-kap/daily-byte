@@ -6,6 +6,8 @@
 # "compUter", return false
 # "coding", return true
 
+#time 3hrs
+
 x = input("enter a string to check for correct use of capitalization: ")
 
 def capitalization():

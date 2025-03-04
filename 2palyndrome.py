@@ -7,6 +7,7 @@
 # "algorithm", return false
 # "A man, a plan, a canal: Panama.", return true
 
+# time: 10 min
 
 x = input("enter a string: ")
 y = x[::-1]
