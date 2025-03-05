@@ -30,7 +30,8 @@ def sum_binary_strings():
     y = y[::-1]
     for i in x:
         if x[i] == 1 and y[i] == 1
-        
+
+#need to add track state variable
         
     z = z[::-1]
     print(f"sum is {z}")
